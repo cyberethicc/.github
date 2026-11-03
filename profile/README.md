@@ -1,23 +1,32 @@
-<div align="center">
+<p align="center">
+  <a href="https://cyberethic.in" target="_blank" rel="noopener noreferrer">
+    <img src="https://cyberethic.in/assets/cyberethiclogo.png" width="130" alt="CyberEthic Logo" />
+  </a>
+</p>
 
-<a href="https://cyberethic.in" target="_blank" rel="noopener noreferrer">
-  <img src="https://cyberethic.in/assets/cyberethiclogo.png" width="130" alt="CyberEthic Logo" />
-</a>
+<h1 align="center">CyberEthic Applied AI & Security Lab</h1>
 
-# CyberEthic Applied AI & Security Lab
+<p align="center">
+  <b>Autonomous Offensive Pentest Agents &bull; Specialized Cybersecurity Reasoning Models &bull; Hands-On Attack Labs</b>
+</p>
 
-**Autonomous Offensive Pentest Agents &bull; Specialized Cybersecurity Reasoning Models &bull; Hands-On Attack Labs**
+<p align="center">
+  <a href="https://cyberethic.in"><img src="https://img.shields.io/badge/Research%20Lab-Applied%20Security-05070a?style=for-the-badge&logo=shield&logoColor=5ce6b0" alt="Research Lab" /></a>
+  <a href="https://algo.cyberethic.in"><img src="https://img.shields.io/badge/EthicAlgo-Live%20Platform-5ce6b0?style=for-the-badge&logo=codeforces&logoColor=white" alt="EthicAlgo" /></a>
+  <a href="https://clarity.cyberethic.in"><img src="https://img.shields.io/badge/Clarity-Live%20Platform-64b5f6?style=for-the-badge&logo=shield&logoColor=white" alt="Clarity" /></a>
+  <a href="https://cyberethic.in"><img src="https://img.shields.io/badge/Origin-India%20%E2%80%A2%20San%20Francisco-orange?style=for-the-badge" alt="Global Lab" /></a>
+</p>
 
-[![Research Lab](https://img.shields.io/badge/Research%20Lab-Applied%20Security-05070a?style=for-the-badge&logo=shield&logoColor=5ce6b0)](https://cyberethic.in)
-[![EthicAlgo](https://img.shields.io/badge/EthicAlgo-Live%20Platform-5ce6b0?style=for-the-badge&logo=codeforces&logoColor=white)](https://algo.cyberethic.in)
-[![Clarity](https://img.shields.io/badge/Clarity-Live%20Platform-64b5f6?style=for-the-badge&logo=shield&logoColor=white)](https://clarity.cyberethic.in)
-[![Origin](https://img.shields.io/badge/Origin-India%20%E2%80%A2%20San%20Francisco-orange?style=for-the-badge)](https://cyberethic.in)
+<p align="center">
+  <a href="https://cyberethic.in"><b>Website</b></a> &bull;
+  <a href="https://algo.cyberethic.in"><b>EthicAlgo</b></a> &bull;
+  <a href="https://clarity.cyberethic.in"><b>Clarity</b></a> &bull;
+  <a href="https://careers.cyberethic.in"><b>Careers</b></a>
+</p>
 
-[**Website**](https://cyberethic.in) &bull; [**EthicAlgo**](https://algo.cyberethic.in) &bull; [**Clarity**](https://clarity.cyberethic.in) &bull; [**Careers**](https://careers.cyberethic.in)
-
-</div>
-
-CyberEthic is an applied research lab and product company. Rather than simply building software, we solve fundamental computing and security challenges: conducting core research into how AI reasons over vulnerabilities, securing model architectures under adversarial conditions, and exploring low-level operating system internals. Our discoveries are released as high-performance open-source primitives, our autonomous products actively find and verify real-world zero-day CVEs, and our research papers are cited by scientists and researchers globally.
+<p align="center">
+  CyberEthic is an applied research lab and product company. Rather than simply building software, we solve fundamental computing and security challenges: conducting core research into how AI reasons over vulnerabilities, securing model architectures under adversarial conditions, and exploring low-level operating system internals. Our discoveries are released as high-performance open-source primitives, our autonomous products actively find and verify real-world zero-day CVEs, and our research papers are cited by scientists and researchers globally.
+</p>
 
 ---
 
@@ -96,15 +105,15 @@ We are always looking for exceptional security researchers, AI systems engineers
 * **Partnerships & Community:** [community@cyberethic.in](mailto:community@cyberethic.in)
 * **Security Disclosures:** [security@cyberethic.in](mailto:security@cyberethic.in)
 
-<div align="center">
+<p align="center">
   <a href="https://cyberethic.in"><b>Website</b></a> &bull;
   <a href="https://github.com/cyberethicc"><b>GitHub</b></a> &bull;
   <a href="https://linkedin.com/company/cyberethicc"><b>LinkedIn</b></a> &bull;
   <a href="https://x.com/cyberethicc"><b>X / Twitter</b></a>
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
   <sub><b>&copy; 2026 CyberEthic Applied AI Security Lab</b> &bull; Researched in India, refined in San Francisco, deployed globally.</sub>
-</div>
+</p>
